@@ -20,6 +20,6 @@ All of the Steps to Fully Configure the Windows Server 2019 and Web Server IIS a
 
 > [!IMPORTANT]
 > **This configuration is based on Simple-Bind, which means no security is implemented on the LDAP**
-> **in the Next version we will view the traffic on both `http` and `ldap` protocols traffic, and configuring `**https**` and `**LDAPS`****
+> **in the Next version we will view the traffic on both `http` and `ldap` protocols traffic, and configuring **`https`** and **`LDAPS`****
 
   
