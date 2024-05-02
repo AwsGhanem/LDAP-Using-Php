@@ -22,4 +22,7 @@ All of the Steps to Fully Configure the Windows Server 2019 and Web Server IIS a
 > **This configuration is based on Simple-Bind, which means no security is implemented on the LDAP,**
 > **in the Next version we will view the traffic on both `http` and `ldap` protocols traffic, and configure **`https`** and **`LDAPS`.****
 
-  
+![image](https://github.com/AwsGhanem/LDAP-Using-Php/assets/123994471/3d6d6d37-545a-4af5-b070-a92e31ca9190)
+
+![image](https://github.com/AwsGhanem/LDAP-Using-Php/assets/123994471/32e90f97-73dd-4492-872a-7bf83ed47d9c)
+
