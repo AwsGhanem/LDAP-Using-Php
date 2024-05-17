@@ -32,8 +32,8 @@ All of the Steps to Fully Configure the Windows Server 2019 and Web Server IIS a
 ![image](https://github.com/AwsGhanem/LDAP-Using-Php/assets/123994471/18ba0429-7e88-4ad5-94d2-d25602efd24b)
 
 
-# LDAP over SSL
-- **The `LDAP-v2` has https configuration added to it, and now all of the http methods are secure with a Local generated Certificate from the `AD CS`**
+# HTTPS with LDAP
+- **The `LDAP-v2` has `https` configuration added to it, and now all of the http methods are secure with a Local generated Certificate from the `AD CS`**
 - **All of the Wireshark tests are also included**
 
 ![image](https://github.com/AwsGhanem/LDAP-Using-Php/assets/123994471/d8f0b302-d41f-40ed-9b45-c74dd861e4fb)
