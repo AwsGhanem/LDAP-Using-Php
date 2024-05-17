@@ -27,7 +27,7 @@ All of the Steps to Fully Configure the Windows Server 2019 and Web Server IIS a
 # Stage (1): Windows Based Authentication
 ![image](https://github.com/AwsGhanem/LDAP-Using-Php/assets/123994471/3d6d6d37-545a-4af5-b070-a92e31ca9190)
 
-# Stage (2): Authetication Using PHP
+# Stage (2): Authentication Using PHP
 ![image](https://github.com/AwsGhanem/LDAP-Using-Php/assets/123994471/32e90f97-73dd-4492-872a-7bf83ed47d9c)
 ![image](https://github.com/AwsGhanem/LDAP-Using-Php/assets/123994471/18ba0429-7e88-4ad5-94d2-d25602efd24b)
 
