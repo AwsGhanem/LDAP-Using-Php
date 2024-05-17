@@ -33,7 +33,6 @@ All of the Steps to Fully Configure the Windows Server 2019 and Web Server IIS a
 
 
 # LDAP over SSL
-**Recenlty i imporoved the project, i tried to secure things as much as i can**
 - **The `LDAP-v2` has https configuration added to it, and now all of the http methods are secure with a Local generated Certificate from the `AD CS`**
 - **All of the Wireshark tests are also included**
 
