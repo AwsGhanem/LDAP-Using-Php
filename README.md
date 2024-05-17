@@ -4,6 +4,8 @@ LDAP Authentication Using Php and Php_ldap.dll on Windows Server 2019 and IIS Se
 All of the Steps to Fully Configure the Windows Server 2019 and Web Server IIS are included on the PDF.
 * Note that I'm using the Php-7.4 version.
 
+[LinkedIn Post](https://www.linkedin.com/posts/aws-ghanem-621426267_ldap-configuration-activity-7197255208140173313-jmDd?utm_source=share&utm_medium=member_desktop)
+
 # Setup the LDAP protocol 
 1) Configure Acitve Directory Domain Service (Not included in the PDF)
 2) Adding users (Not included in the PDF)
